@@ -1,3 +1,5 @@
+deploy: https://itwebs-test-task-henna.vercel.app
+
 на проекте реализованы четыре вида рендеринга:
 /posts - csr
 /posts/[postIndex] - isr
