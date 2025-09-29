@@ -34,7 +34,6 @@ const PostPage: FC<Props> = async ({ params }) => {
 
     return (
         <pre>
-            <p>{Math.ceil(Math.random() * 100)}</p>
             {JSON.stringify(post, null, 4)}
         </pre>
     );
